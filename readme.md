@@ -1,1 +1,0 @@
-It's a local-storage logger. It logs when and from which device someone opened this site. 
