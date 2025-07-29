@@ -1,5 +1,4 @@
-let normalDate = new Date();
-let date = normalDate.toLocaleString();
+let date = new Date().toLocaleString();
 let userInfo = navigator.userAgent;
 let userLanguage = navigator.language;
 let hasCanceledRedirect = false;
